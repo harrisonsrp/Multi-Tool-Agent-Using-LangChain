@@ -1,0 +1,233 @@
+{
+    "insights": [
+        {
+            "date": "2024-03-26",
+            "avg_price": {
+                "single_family_home": 725000,
+                "condo": 442000,
+                "plex": 770000
+            },
+            "sales_volume": {
+                "single_family_home": 2145,
+                "condo": 5348,
+                "plex": 1407
+            }
+        },
+        {
+            "date": "2024-06-30",
+            "avg_price": {
+                "single_family_home": 799000,
+                "condo": 359000,
+                "plex": 817500
+            },
+            "sales_volume": {
+                "single_family_home": 2000,
+                "condo": 5000,
+                "plex": 1300
+            }
+        },
+        {
+            "date": "2024-07-31",
+            "avg_price": {
+                "single_family_home": 611295,
+                "condo": 395600,
+                "plex": 650000
+            },
+            "sales_volume": {
+                "single_family_home": 3439,
+                "condo": 4800,
+                "plex": 1200
+            }
+        },
+        {
+            "date": "2024-12-31",
+            "avg_price": {
+                "single_family_home": 684998,
+                "condo": 471912,
+                "plex": 800000
+            },
+            "sales_volume": {
+                "single_family_home": 3000,
+                "condo": 4500,
+                "plex": 1100
+            }
+        },
+        {
+            "date": "2024-01-31",
+            "avg_price": {
+                "single_family_home": 629700,
+                "condo": 450200,
+                "plex": 750000
+            },
+            "sales_volume": {
+                "single_family_home": 2500,
+                "condo": 4600,
+                "plex": 1000
+            }
+        },
+        {
+            "date": "2024-02-28",
+            "avg_price": {
+                "single_family_home": 640000,
+                "condo": 440000,
+                "plex": 760000
+            },
+            "sales_volume": {
+                "single_family_home": 2600,
+                "condo": 4700,
+                "plex": 1050
+            }
+        },
+        {
+            "date": "2024-04-30",
+            "avg_price": {
+                "single_family_home": 650000,
+                "condo": 445000,
+                "plex": 770000
+            },
+            "sales_volume": {
+                "single_family_home": 2700,
+                "condo": 4800,
+                "plex": 1100
+            }
+        },
+        {
+            "date": "2024-05-31",
+            "avg_price": {
+                "single_family_home": 660000,
+                "condo": 450000,
+                "plex": 780000
+            },
+            "sales_volume": {
+                "single_family_home": 2800,
+                "condo": 4900,
+                "plex": 1150
+            }
+        },
+        {
+            "date": "2024-08-31",
+            "avg_price": {
+                "single_family_home": 670000,
+                "condo": 455000,
+                "plex": 790000
+            },
+            "sales_volume": {
+                "single_family_home": 2900,
+                "condo": 5000,
+                "plex": 1200
+            }
+        },
+        {
+            "date": "2024-09-30",
+            "avg_price": {
+                "single_family_home": 680000,
+                "condo": 460000,
+                "plex": 800000
+            },
+            "sales_volume": {
+                "single_family_home": 3000,
+                "condo": 5100,
+                "plex": 1250
+            }
+        },
+        {
+            "date": "2024-10-31",
+            "avg_price": {
+                "single_family_home": 690000,
+                "condo": 465000,
+                "plex": 810000
+            },
+            "sales_volume": {
+                "single_family_home": 3100,
+                "condo": 5200,
+                "plex": 1300
+            }
+        },
+        {
+            "date": "2024-11-30",
+            "avg_price": {
+                "single_family_home": 700000,
+                "condo": 470000,
+                "plex": 820000
+            },
+            "sales_volume": {
+                "single_family_home": 3200,
+                "condo": 5300,
+                "plex": 1350
+            }
+        },
+        {
+            "date": "2024-12-31",
+            "avg_price": {
+                "single_family_home": 710000,
+                "condo": 475000,
+                "plex": 830000
+            },
+            "sales_volume": {
+                "single_family_home": 3300,
+                "condo": 5400,
+                "plex": 1400
+            }
+        },
+        {
+            "market_condition": "seller's market",
+            "interest_rate": 5.0,
+            "population_growth": 217600
+        },
+        {
+            "market_condition": "buyer's market",
+            "interest_rate": 4.5,
+            "population_growth": 200000
+        },
+        {
+            "market_condition": "balanced market",
+            "interest_rate": 4.0,
+            "population_growth": 180000
+        },
+        {
+            "market_condition": "seller's market",
+            "interest_rate": 5.0,
+            "population_growth": 220000
+        },
+        {
+            "market_condition": "buyer's market",
+            "interest_rate": 4.5,
+            "population_growth": 210000
+        },
+        {
+            "market_condition": "balanced market",
+            "interest_rate": 4.0,
+            "population_growth": 190000
+        },
+        {
+            "market_condition": "seller's market",
+            "interest_rate": 5.0,
+            "population_growth": 230000
+        },
+        {
+            "market_condition": "buyer's market",
+            "interest_rate": 4.5,
+            "population_growth": 240000
+        },
+        {
+            "market_condition": "balanced market",
+            "interest_rate": 4.0,
+            "population_growth": 250000
+        },
+        {
+            "market_condition": "seller's market",
+            "interest_rate": 5.0,
+            "population_growth": 260000
+        },
+        {
+            "market_condition": "buyer's market",
+            "interest_rate": 4.5,
+            "population_growth": 270000
+        },
+        {
+            "market_condition": "balanced market",
+            "interest_rate": 4.0,
+            "population_growth": 280000
+        }
+    ]
+}
