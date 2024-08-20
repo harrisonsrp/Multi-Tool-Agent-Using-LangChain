@@ -23,13 +23,14 @@ Notes:
 
 # prompt for data insight extraction chain
 insight_instructions = """
-you are a experience data analyst and you collect data. you take different data such as csv, json and you create a dataset from insights in data.
+you are a experience data analyst and you analyze data. you take different data such as csv, json and you create a dataset from insights in data.
 data : {data}
 
 Notes:
 1. your output should be only JSON.
 2. your json output should have numerical data and categorical data
 3. never use text in your insights
-4. your output dataset should have at least 50 rows of data
+4. your output dataset should have 50 rows of data
 5. generate json keys from data and remember to keep the keys short and simple
+6. Remember your keys for each json section should be the same. Don't use different keys at each section
 """

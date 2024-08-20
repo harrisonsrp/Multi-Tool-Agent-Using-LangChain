@@ -28,5 +28,5 @@ def execute_tools(state: [BaseMessage]) -> List[ToolMessage]:
     if tool_name == 'data_visualization.py':
         print("==== Using Data Visualization Tool ====")
         json_file = "tools_results/scraped_data.json"
-        data_cleansing = data_visualization(json_file)
-        return data_cleansing
+        data_visu = data_visualization(json_file)
+        return data_visu
